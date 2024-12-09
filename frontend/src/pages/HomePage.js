@@ -23,7 +23,7 @@ const HomePage = ({ setCurrentPage }) => {
   }, []);
 
   const handleExploreClubClick = () => {
-    navigate("/shop");
+    navigate("/facilities");
   };
 
   return (
